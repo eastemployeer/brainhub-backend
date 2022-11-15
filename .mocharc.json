@@ -1,0 +1,5 @@
+{
+    "require": ["@babel/polyfill", "@babel/register", "test/unit/hooks.js"],
+    "recursive": true,
+    "exit": true
+}
